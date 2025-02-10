@@ -15,7 +15,7 @@ The AlgoMol CLI provides both an interactive shell mode and a single-shot comman
 
 ## Installation
 
-(Add installation instructions here)
+Download from the latest release: [algomol-cli v0.0.1](https://github.com/AlgoMol-dev/AlgoMol-release/releases/tag/v0.0.1)
 
 ## Usage Modes
 
