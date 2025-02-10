@@ -6,7 +6,7 @@
 </picture>
 
 # <p align="center">***AlgoMol***</p>
-A library to calculate molecular properties using graph representations.
+Calculate Equivalence Classes of Atoms from Molecular Graphs.
 </div>
 
 # AlgoMol CLI Tutorial
