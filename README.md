@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="/docs/icononly_nobuffer.png">
-  <img alt="AlgoMol logo" src="/docs/icononly_transparent_nobuffer.png" width="50%" height="50%">
+  <img alt="AlgoMol logo" src="/docs/icononly_transparent_nobuffer.png" width="40%" height="40%">
 </picture>
 
 # <p align="center">***AlgoMol***</p>
@@ -94,11 +94,12 @@ Atoms: 8
 Bonds: 7
 
 Equivalence Classes:
-1 
-2 
-3 4
-5 6 7
-8
+0
+1
+2
+3
+4 5 6
+7
 ```
 
 ## Visualization
